@@ -3,7 +3,7 @@ Timelapse heatmap of UFO reports in the U.S. from 1950-2014. Using a [dataset fo
 ## Overview
 The timelapse heatmap that I created uses gmplot to plot a heatmap on top of Google Maps. I then took a screenshot for each year's heatmap and cropped the screenshot to show just the U.S., then using imageio I was able to form a GIF from the cropped images being displayed one after another.
 ## Demonstration
-![alt text](https://media.giphy.com/media/l378A34aGcEQtZ1Yc/giphy.gif "UFO report timelapse")
+![alt text](https://media.giphy.com/media/l1J9s9ibi130zGgj6/giphy.gif "UFO report timelapse")
 
 The GIF shows the collection of reports over the 64 year span.
 ## Motivation
